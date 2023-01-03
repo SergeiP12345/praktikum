@@ -1,0 +1,22 @@
+
+ /* function openPopup () {
+    aboutPopup.classList.add ('popup_opened');
+    NameInput.value = UserName.textContent;
+    textInput.value = UserText.textContent;
+  }
+  
+  function closePopup ()  {
+    aboutPopup.classList.remove ('popup_opened');
+  }
+
+  function handleFormSubmit (evt) {
+    evt.preventDefault();
+    UserName.textContent = NameInput.value;
+    UserText.textContent = textInput.value;
+    closePopup ();
+}
+  
+  aboutButton.addEventListener ('click', openPopup);
+  aboutButtonclose.addEventListener ('click', closePopup);
+  formElement.addEventListener('submit', handleFormSubmit);
+ */
